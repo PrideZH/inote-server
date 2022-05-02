@@ -1,0 +1,20 @@
+# Java
+*.class
+src/test/*
+
+# Intellij
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+log/
+target/
+
+#log
+*.log
+
+# Project
+application-test.yml
+application-prod.yml
